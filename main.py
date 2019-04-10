@@ -692,7 +692,7 @@ def product():
 
 	b='''
 	  	<div id ="right">
-	  		<h2>The laster book</h2>
+	  		<h2>The latest book</h2>
 	  		<form action="/product_d" method="post">
 	  	'''
 
